@@ -2,9 +2,9 @@
 
 Student Details
 
-Name: Anshul Sharma
+Name: Rashi Popli
 
-UID: 24BDA70368
+UID: 24BDA70367
 
 Group: 24BDS-3(B)
 
